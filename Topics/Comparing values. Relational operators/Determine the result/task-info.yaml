@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "false"
+  - text: "true"
+  - text: 1
+  - text: "no"
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2054#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 28 May 2024 12:47:15 UTC"
+record: -1
+selected_options:
+  - 1
+local_check: false

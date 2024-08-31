@@ -1,0 +1,23 @@
+content:
+  - Types and variables
+  - Comments
+  - Reading user's input with Scanner
+  - Coding style conventions
+  - Naming variables
+  - Arithmetic operations
+  - Writing first program
+  - Integer types and operations
+  - Boolean type and operations. True and false
+  - Comparing values. Relational operators
+  - Defining classes
+  - Instance methods
+  - Array
+  - Floating-point types
+  - Initializing new instances. Constructor
+  - Objects and their properties
+  - Static members
+  - Multiple conditions  switch
+  - While and do-while loops
+  - For-loop
+  - Printing data
+  - Combining constants with enum

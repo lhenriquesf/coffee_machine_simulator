@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 12
+  - text: 57
+  - text: 12 is result
+  - text: 57 is result
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/26370#comment
+status: Solved
+record: -1
+custom_name: Jamais vu!
+local_check: false
